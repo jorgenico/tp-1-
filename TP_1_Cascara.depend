@@ -1,0 +1,32 @@
+# depslib dependency file v1.0
+1523379108 source:c:\users\nora\documents\nikola\jorge\texto\utn programacion\tp 1 calcu\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1523379753 source:c:\users\nora\documents\nikola\jorge\texto\utn programacion\tp 1 calcu\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+	"funciones.c"
+
+1457052376 c:\users\nora\documents\nikola\jorge\texto\utn programacion\tp 1 calcu\funciones.h
+
+1523379894 c:\users\nora\documents\nikola\jorge\texto\utn programacion\tp 1 calcu\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+	"funciones.c"
+
+1523404846 source:e:\tp 1 calcu\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1523404972 e:\tp 1 calcu\funciones.h
+
+1523405130 source:e:\tp 1 calcu\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
